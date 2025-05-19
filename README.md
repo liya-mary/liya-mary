@@ -60,7 +60,7 @@ Your real-time travel companion, helping you instantly discover local events, re
   <img src="public/images/fav_list.png?raw=true" width="300" alt="Favorites List" />
 </div><br><br>
 
-### [SongTrail](https://github.com/eric-gebus/songtrail)
+### [SongTrail](https://github.com/liya-mary/songtrail)
 A Web-app that charts your music-listening history in real time and pin it on a map.
 - Play Spotify tracks seamlessly within the app.
 - Automatically record your location when a song plays.
@@ -81,7 +81,7 @@ A Web-app that charts your music-listening history in real time and pin it on a 
 </div><br><br>
 
 
-### [FlyTyper](https://github.com/eric-gebus/FlyTyper)
+### [FlyTyper](https://github.com/liya-mary/FlyTyper)
 An interactive multiplayer game where you compete against real players in real-time, racing to see who can type the fastest and most accurately.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
